@@ -1,4 +1,4 @@
-﻿Readme
+**﻿Readme**
 Implement a Web App using GitHub API to fetch your GitHub repositories portfolio
 1.	Show a page listing all your repositories on GitHub with pagination enabled 
 2. Implement Search and Filter. 
